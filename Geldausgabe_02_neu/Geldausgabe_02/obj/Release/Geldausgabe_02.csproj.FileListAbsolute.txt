@@ -1,0 +1,8 @@
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\bin\Release\Geldausgabe_02.exe
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\bin\Release\Geldausgabe_02.pdb
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Release\ResolveAssemblyReference.cache
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Release\WindowsFormsApplication1.frmGeldausgabe.resources
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Release\Geldausgabe_02.csproj.GenerateResource.Cache
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Release\Geldausgabe_02.exe
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Release\Geldausgabe_02.pdb

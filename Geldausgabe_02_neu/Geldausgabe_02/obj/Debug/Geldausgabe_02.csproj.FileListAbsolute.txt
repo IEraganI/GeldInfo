@@ -1,0 +1,43 @@
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\bin\Debug\Geldausgabe_02.exe
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\bin\Debug\Geldausgabe_02.pdb
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\ResolveAssemblyReference.cache
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.frmGeldausgabe.resources
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.GenerateResource.Cache
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.exe
+P:\00_20152016\6AB_INF\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.pdb
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.exe
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.pdb
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\bin\Debug\Geldausgabe_02.exe
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\bin\Debug\Geldausgabe_02.pdb
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\ResolveAssemblyReference.cache
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.frmGeldausgabe.resources
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\01__20162017\7AB_INF\6AB_Vorjahr\CS\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.GenerateResource.Cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\bin\Debug\Geldausgabe_02.exe
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\bin\Debug\Geldausgabe_02.pdb
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.csprojResolveAssemblyReference.cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.frmGeldausgabe.resources
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.GenerateResource.cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.CoreCompileInputs.cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.exe
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02\Geldausgabe_02\obj\Debug\Geldausgabe_02.pdb
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\bin\Debug\Geldausgabe_02.exe
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\bin\Debug\Geldausgabe_02.pdb
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.csprojResolveAssemblyReference.cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.frmGeldausgabe.resources
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.GenerateResource.cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.CoreCompileInputs.cache
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.exe
+C:\Users\mwlas\Documents\Schule\Matura\Info\Programmieren (prozedural)\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.pdb
+F:\Geldausgabe_02_neu\Geldausgabe_02\bin\Debug\Geldausgabe_02.exe
+F:\Geldausgabe_02_neu\Geldausgabe_02\bin\Debug\Geldausgabe_02.pdb
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.frmGeldausgabe.resources
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.GenerateResource.cache
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.csproj.CoreCompileInputs.cache
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.exe
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.pdb
+F:\Geldausgabe_02_neu\Geldausgabe_02\obj\Debug\Geldausgabe_02.csprojAssemblyReference.cache

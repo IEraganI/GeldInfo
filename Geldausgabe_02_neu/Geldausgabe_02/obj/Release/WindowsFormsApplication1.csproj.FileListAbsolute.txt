@@ -1,0 +1,8 @@
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.frmGeldausgabe.resources
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\otto.lichtenauer\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
